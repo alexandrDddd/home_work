@@ -1,0 +1,12 @@
+
+
+
+
+while True:
+    print("BOO YA!")
+    answer = input("Do you wan't me to stop ?\n >>>  ")
+    if answer == "no":
+        print("No no my bro, this is wrong answer ! :)")
+    if answer == "yes":
+        print("Oooooo thank you !!!!")
+        break
